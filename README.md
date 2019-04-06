@@ -14,3 +14,7 @@ Using the Paging library and kotlin to fetch data from stackoverflow api
 StackOverflow API : https://api.stackexchange.com/2.2/answers?page=4&pagesize=50&site=stackoverflow
 
 ![Using Paging Library with Kotlin](https://i.imgur.com/zpnFs3E.png)
+
+# Live Demo
+
+![Using Paging Library with Kotlin Live Demo](http://g.recordit.co/bDfYVUk2ps.gif)
